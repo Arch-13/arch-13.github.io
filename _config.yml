@@ -1,0 +1,5 @@
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Smart Consulting - ConsultAI
+description: Naudojame naujausias dirbtinio intelekto technologijas projektų konsultavimo srityje
