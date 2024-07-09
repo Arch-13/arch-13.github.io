@@ -10,6 +10,13 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      .btn.active {
+        font-weight: bold;
+        background-color: rgba(255, 255, 255, 0.2);
+        border-color: rgba(255, 255, 255, 0.3);
+      }
+    </style>
     {% include head-custom.html %}
   </head>
   <body>
@@ -20,9 +27,17 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="#" class="btn">Apie mus</a>
       <a href="#" class="btn">Paslaugos</a>
-      <a href="{{ site.baseurl }}es-projektai" class="btn">ES projektai</a>
+      <a href="{{ site.baseurl }}es-projektai" class="{% if page.url == '/es-projektai.html' %}btn active{%else%}btn{% endif %}">ES projektai</a>
       <a href="#" class="btn">Kontaktai</a>
     </header>
+
+    <!-- _includes/nav.html -->
+<nav>
+  <a href="{{ site.baseurl }}/index.html" class="{% if page.url == '/index.html' %}active{% endif %}">Home</a>
+  <a href="{{ site.baseurl }}/about.html" class="{% if page.url == '/about.html' %}active{% endif %}">About</a>
+  <a href="{{ site.baseurl }}/contacts.html" class="{% if page.url == '/contacts.html' %}active{% endif %}">Contacts</a>
+</nav>
+
 
     <main id="content" class="main-content" role="main">
       {{ content }}
