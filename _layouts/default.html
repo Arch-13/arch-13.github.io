@@ -25,10 +25,10 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="#" class="btn">Apie mus</a>
-      <a href="#" class="btn">Paslaugos</a>
+      <a href="{{ site.baseurl }}" class="btn">Apie mus</a>
+      <a href="{{ site.baseurl }}" class="btn">Paslaugos</a>
       <a href="{{ site.baseurl }}es-projektai" class="{% if page.url == '/es-projektai.html' %}btn active{%else%}btn{% endif %}">ES projektai</a>
-      <a href="#" class="btn">Kontaktai</a>
+      <a href="{{ site.baseurl }}" class="btn">Kontaktai</a>
     </header>
 
     <!-- _includes/nav.html -->
