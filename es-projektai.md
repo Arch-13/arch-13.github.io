@@ -1,5 +1,5 @@
 ---
-title: ES parama
+title: ES projektai
 ---
 ## Finansuojama Ekonomikos gaivinimo ir atsparumo didinimo plano „Naujos Kartos Lietuva“ (NextGenerationEU) lėšomis
 
