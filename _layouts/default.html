@@ -26,7 +26,7 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="{{ site.baseurl }}" class="btn">Apie mus</a>
-      <a href="{{ site.baseurl }}" class="btn">Paslaugos</a>
+      <a href="{{ site.baseurl }}paslaugos" class="{% if page.url == '/paslaugos.html' %}btn active{%else%}btn{% endif %}">Paslaugos</a>
       <a href="{{ site.baseurl }}" class="btn">Išmanioji konsultavimo platforma</a>
       <a href="{{ site.baseurl }}es-projektai" class="{% if page.url == '/es-projektai.html' %}btn active{%else%}btn{% endif %}">Vykdomi projektai</a>
       <a href="{{ site.baseurl }}" class="btn">Kontaktai</a>
