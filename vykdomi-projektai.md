@@ -1,5 +1,5 @@
 ---
-title: ES projektai
+title: Vykdomi projektai
 ---
 ## Finansuojama Ekonomikos gaivinimo ir atsparumo didinimo plano „Naujos Kartos Lietuva“ (NextGenerationEU) lėšomis
 
