@@ -1,6 +1,5 @@
----
-title: Vykdomi projektai
----
+# Vykdomi projektai
+
 ## Finansuojama Ekonomikos gaivinimo ir atsparumo didinimo plano „Naujos Kartos Lietuva“ (NextGenerationEU) lėšomis
 
 UAB „Arch 13“ savo veikloje diegia dirbtinio intelekto (AI) sprendimus ES struktūrinių fondų pagalba.
