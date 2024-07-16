@@ -11,3 +11,6 @@ Tinkamos finansuoti išlaidos – 98 415,77 Eur
 Finansavimo suma – 83 720,12Eur.
 
 Projektas bus įgyvendinamas iki 2025 balandžio 30 d.
+
+![NextGenerationEU](images/NextGenerationEU-black.jpg)
+![NaujosKartosLietuva](images/NaujosKartosLietuva-black.png)
