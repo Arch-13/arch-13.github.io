@@ -1,4 +1,9 @@
-# Vykdomi projektai
+---
+title: Vykdomi projektai
+layout: page
+description: Vykdomi projektai
+bodyClass: page-projects
+---
 
 ## Finansuojama Ekonomikos gaivinimo ir atsparumo didinimo plano „Naujos Kartos Lietuva“ (NextGenerationEU) lėšomis
 

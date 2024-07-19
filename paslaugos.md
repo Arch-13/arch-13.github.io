@@ -1,7 +1,11 @@
 ---
 title: Paslaugos
+layout: services
+description: Services
+intro_image: "images/illustrations/reading.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 ---
-# PASLAUGOS
 
 ## Konsultacijos ES paramos klausimais
 - Konsultacija dėl tinkamos priemonės pasirinkimo Jūsų idėjai finansuoti.
