@@ -5,8 +5,6 @@ description: Apie mus
 bodyClass: page-about
 ---
 
-# Apie mus
-
 Patyrusi, skirtingų sričių specialistų komanda jau daugiau kaip 20 metų sėkmingai ruošia ir administruoja ES paramos lėšomis finansuojamus projektus.
 Tam, kad efektyviai dirbtume, mes nuolatos tobulėjame ir ugdome reikalingus įgūdžius drąsiai eksperimentuodami:
 Iki 2024 metų pabaigos bus sukurta dirbtinio intelektu pagrindu veikianti platforma, kuri užtikrins, kad mūsų klientams dalis paslaugų bus teikiama 24/7. 
