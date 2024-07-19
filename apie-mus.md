@@ -1,3 +1,10 @@
+---
+title: About
+layout: page
+description: About
+bodyClass: page-about
+---
+
 # Apie mus
 
 Patyrusi, skirtingų sričių specialistų komanda jau daugiau kaip 20 metų sėkmingai ruošia ir administruoja ES paramos lėšomis finansuojamus projektus.
@@ -8,8 +15,8 @@ Tikime, kad skaitmeninių įrankių naudojimas automatizuojant projektų parengi
 Siekiame pasitelkus dirbtinio intelekto įrankius taip supaprastinti dokumentų ruošimo procesą, kad klientas pats galėtų pateikti visus dokumentus finansavimui gauti. 
 
 
-Misija   Teikti patikimas paslaugas. 
-Vizija   Maži, bet matomi partneriai.  Paprasti, bet kokybiški sprendimai.
+Misija - Teikti patikimas paslaugas. 
+Vizija - Maži, bet matomi partneriai.  Paprasti, bet kokybiški sprendimai.
 
 Vertybės:
 - Sąžiningumas -  Objektyviai vertiname kiekvieno kliento galimybes gauti paramą ir dalinamės šia informacija su klientais. Esame orientuoti į klientų sėkmę. Mums svarbu, kad jų projektas gautų finansavimą.  
