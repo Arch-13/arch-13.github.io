@@ -1,7 +1,7 @@
 ---
-title: About
+title: Apie mus
 layout: page
-description: About
+description: Apie mus
 bodyClass: page-about
 ---
 
@@ -15,7 +15,7 @@ Tikime, kad skaitmeninių įrankių naudojimas automatizuojant projektų parengi
 Siekiame pasitelkus dirbtinio intelekto įrankius taip supaprastinti dokumentų ruošimo procesą, kad klientas pats galėtų pateikti visus dokumentus finansavimui gauti. 
 
 
-Misija - Teikti patikimas paslaugas. 
+Misija - Teikti patikimas paslaugas.\
 Vizija - Maži, bet matomi partneriai.  Paprasti, bet kokybiški sprendimai.
 
 Vertybės:
