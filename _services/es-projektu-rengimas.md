@@ -4,8 +4,6 @@ date: 2024-07-02T15:15:26+10:00
 weight: 2
 ---
 
-## ES projektų rengimas
-
 - Paraiškos rengimas
 - Verslo plano rengimas
 - Investicijų projekto rengimas
