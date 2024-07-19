@@ -5,15 +5,15 @@ main:
   - name: "Team"
     url: "/team/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Apie mus"
+    url: "/apie-mus/"
     weight: 4
   - name: "Contact"
     url: "/contact/"
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Pagrindinis"
     url: "/"
     weight: 1
   - name: "Contact"
