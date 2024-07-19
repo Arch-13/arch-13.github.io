@@ -1,4 +1,5 @@
 baseurl: '/'
+url: 'https://consultai.lt'
 permalink: pretty
 title: 'ConsultAI'
 description: Išmanus konsultavimas
