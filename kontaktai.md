@@ -1,6 +1,10 @@
-# Kontaktai
+---
+title: Kontaktai
+layout: contact
+description: Kontaktai
+---
 
 Su mumis galima susisiekti:
 
-Tel.: +37067762416\
-El.p.: info@consultai.lt
+Telefonas: +37067762416\
+El. paštas: <a href="mailto:info@consultai.lt">info@consultai.lt</a>

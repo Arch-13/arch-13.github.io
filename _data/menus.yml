@@ -8,14 +8,14 @@ main:
   - name: "Vykdomi projektai"
     url: "/vykdomi-projektai/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Kontaktai"
+    url: "/kontaktai/"
     weight: 5
 
 footer:
   - name: "Pagrindinis"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Kontaktai"
+    url: "/kontaktai/"
     weight: 2
