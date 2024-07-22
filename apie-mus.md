@@ -9,7 +9,7 @@ Patyrusi, skirtingų sričių specialistų komanda jau daugiau kaip 20 metų sė
 Tam, kad efektyviai dirbtume, mes nuolatos tobulėjame ir ugdome reikalingus įgūdžius drąsiai eksperimentuodami:
 iki 2024 metų pabaigos bus sukurta dirbtinio intelektu pagrindu veikianti platforma, kuri užtikrins, kad mūsų klientams dalis paslaugų bus teikiama 24/7. 
 
-Tikime, kad skaitmeninių įrankių naudojimas automatizuojant projektų parengimo ir administravimo procesus, padarys mūsų bendravimą ir bendradarbiavimą paprastesnį. Pasitelkę dirbtinio intelekto įrankius siekiame taip supaprastinti dokumentų ruošimo procesą, kad klientas pats galėtų pateikti visus dokumentus finansavimui gauti. 
+Tikime, kad skaitmeninių įrankių naudojimas automatizuojant projektų parengimo ir administravimo procesus, padarys mūsų bendravimą ir bendradarbiavimą paprastesnį. Pasitelkę dirbtinio intelekto įrankius, siekiame taip supaprastinti dokumentų ruošimo procesą, kad klientas pats galėtų pateikti visus dokumentus finansavimui gauti.
 
 
 Misija - teikti patikimas paslaugas.\
