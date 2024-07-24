@@ -7,8 +7,8 @@ show_downloads: false
 
 logo:
   mobile: "images/logo/ConsultAI.png"
-  mobile_height: "110px"
-  mobile_width: "20px"
+  mobile_height: "20px"
+  mobile_width: "110px"
   desktop: "images/logo/ConsultAI.png"
   desktop_height: "20px"
   desktop_width: "110px"
